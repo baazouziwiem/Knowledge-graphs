@@ -38,7 +38,6 @@ If you find any material in the paper or this repository useful, please cite it 
 }
 ```
 
-See also the extended version as a book: [Hogan, A., et al. (2021). Knowledge Graphs. Morgan and Claypool.](https://kgbook.org/)
 
 ## Overview
 
