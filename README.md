@@ -4,39 +4,7 @@ This repository contains examples in concrete syntaxes from the Knowledge Graphs
 
 If you find any material in the paper or this repository useful, please cite it as:
 
-```bibtex
-@article{DBLP:journals/csur/HoganBCdMGKGNNN21,
-  author    = {Aidan Hogan and
-               Eva Blomqvist and
-               Michael Cochez and
-               Claudia d'Amato and
-               Gerard de Melo and
-               Claudio Guti{\'{e}}rrez and
-               Sabrina Kirrane and
-               Jos{\'{e}} Emilio Labra Gayo and
-               Roberto Navigli and
-               Sebastian Neumaier and
-               Axel{-}Cyrille Ngonga Ngomo and
-               Axel Polleres and
-               Sabbir M. Rashid and
-               Anisa Rula and
-               Lukas Schmelzeisen and
-               Juan F. Sequeda and
-               Steffen Staab and
-               Antoine Zimmermann},
-  title     = {Knowledge Graphs},
-  journal   = {{ACM} Comput. Surv.},
-  volume    = {54},
-  number    = {4},
-  pages     = {71:1--71:37},
-  year      = {2021},
-  url       = {https://doi.org/10.1145/3447772},
-  doi       = {10.1145/3447772},
-  timestamp = {Thu, 14 Oct 2021 09:18:45 +0200},
-  biburl    = {https://dblp.org/rec/journals/csur/HoganBCdMGKGNNN21.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
-```
+
 
 
 ## Overview
